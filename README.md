@@ -1,1 +1,2 @@
-# AI-study-by-hansei-people
+# 환영합니다!
+# 한세인들의 AI 스터디 공간입니다!
